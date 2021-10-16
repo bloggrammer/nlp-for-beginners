@@ -1,6 +1,6 @@
 # NLP Assignment
 
-## Tokenization Exercise
+## Tokenization: Exercise 1
 
 1. Why do we need to tokenize a text in NLP?
 
@@ -32,7 +32,7 @@
 	- Tokenize using nltk package
 	- For each tokenization, compute the number of tokens, using the len() function, and print the result.
   
-  ## Stop Words Exercise
+  ## Stop Words: Exercise 2
   
   1. Lists the approach used to remove stop words?
 2. Remove stop words from the text below:
