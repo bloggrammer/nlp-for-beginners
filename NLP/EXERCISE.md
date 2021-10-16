@@ -34,7 +34,7 @@
   
   ## Stop Words Exercise
   
-  1. Lists the approcah used to remove stop words?
+  1. Lists the approach used to remove stop words?
 2. Remove stop words from the text below:
 
 "Stop words are most common words found in any natural
