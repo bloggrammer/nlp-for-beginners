@@ -2,7 +2,7 @@
 
 ## Tokenization Exercise
 
-1. Why do we need to segmentize a text in NLP?
+1. Why do we need to tokenize a text in NLP?
 
 2. Can you tell me how many tokens contains in the bold text:
 **The wolf said: "Little pig, little pig, let me come in."**
